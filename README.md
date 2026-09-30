@@ -1,6 +1,6 @@
 # My Course Portfolio
 
-Welcome to my academic portfolio for [Course Name]!
+Welcome to my academic portfolio for Essential Tooling for Programmers!
 
 ## About Me
 - Name: Wen Xin Gao
@@ -16,3 +16,4 @@ Welcome to my academic portfolio for [Course Name]!
 
 ## Projects
 *This section will be updated as I complete assignments*
+
