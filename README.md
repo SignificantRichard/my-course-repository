@@ -16,3 +16,4 @@ Welcome to my academic portfolio for Essential Tooling for Programmers!
 
 ## Projects
 *This section will be updated as I complete assignments*
+
